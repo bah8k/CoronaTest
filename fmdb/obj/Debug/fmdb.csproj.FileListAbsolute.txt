@@ -1,0 +1,12 @@
+c:\users\alnaseem\documents\visual studio 2012\Projects\fmdb\fmdb\bin\Debug\fmdb.exe.config
+c:\users\alnaseem\documents\visual studio 2012\Projects\fmdb\fmdb\bin\Debug\fmdb.exe
+c:\users\alnaseem\documents\visual studio 2012\Projects\fmdb\fmdb\bin\Debug\fmdb.pdb
+c:\users\alnaseem\documents\visual studio 2012\Projects\fmdb\fmdb\obj\Debug\fmdb.csprojResolveAssemblyReference.cache
+c:\users\alnaseem\documents\visual studio 2012\Projects\fmdb\fmdb\obj\Debug\fmdb.Form1.resources
+c:\users\alnaseem\documents\visual studio 2012\Projects\fmdb\fmdb\obj\Debug\fmdb.Properties.Resources.resources
+c:\users\alnaseem\documents\visual studio 2012\Projects\fmdb\fmdb\obj\Debug\fmdb.csproj.GenerateResource.Cache
+c:\users\alnaseem\documents\visual studio 2012\Projects\fmdb\fmdb\obj\Debug\fmdb.exe
+c:\users\alnaseem\documents\visual studio 2012\Projects\fmdb\fmdb\obj\Debug\fmdb.pdb
+c:\users\alnaseem\documents\visual studio 2012\Projects\fmdb\fmdb\bin\Debug\Database1.mdf
+c:\users\alnaseem\documents\visual studio 2012\Projects\fmdb\fmdb\bin\Debug\Database1_log.ldf
+c:\users\alnaseem\documents\visual studio 2012\Projects\fmdb\fmdb\obj\Debug\fmdb.Form2.resources
